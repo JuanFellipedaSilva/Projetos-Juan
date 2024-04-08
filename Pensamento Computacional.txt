@@ -1,0 +1,5 @@
+Pilares do pensamento comutacioanal
+
+1- Decompor o problema é reduzir em pequnos problemas
+2- reconhecimento de padrões 
+3- Abstrair é não considerar elementos não pertinente para a solução
